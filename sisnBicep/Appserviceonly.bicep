@@ -1,4 +1,4 @@
-
+@description ('this is for app service plan')
 param AppserviceName string 
 param location string = resourceGroup().location
 param appserviceappinsight string 
